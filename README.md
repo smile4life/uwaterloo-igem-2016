@@ -1,1 +1,6 @@
-# uwaterloo-igem-2016
+# Software for the 2016 Waterloo iGEM Team
+
+Visit our [website](http://igem.uwaterloo.ca) to learn more about our 2015 project.
+The software in this repo is mostly created by the mathematical modelling subteam,
+headed by Zoë Humphries ([@smile4life](https://github.com/smile4life)) and Emily Watson
+([@emwatts](https://github.com/emwatts)).
