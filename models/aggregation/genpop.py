@@ -46,7 +46,7 @@ cells.append(Cell(cells, 60, 0, True))
 
 psi_minus_vals = []
 
-for i in range(12):
+for i in range(16):
     bud_all_cells(cells)
     enumerate_cells(cells)
 # enumerate_cells(cells)
