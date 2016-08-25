@@ -1,0 +1,28 @@
+body{
+  background-color: slategray;
+}
+.initial-bar{
+  background-color:#1b1818 ;
+  border-bottom-style: solid;
+  border-bottom-color: white;
+  line-height: 40px !important ;  
+}
+.navbar{
+  display: inline-block;
+}
+.navbar-nav > li > a{
+  color: white;
+  padding-top: 18px;
+}
+.initial-bar .navbar-nav > li > a:hover{
+    background-color: rgba(0,0,0,0);
+    border-top-style: solid;
+    border-top-color: white;
+    padding-top: 15px;
+}
+.initial-bar .navbar-nav > li > a:focus {
+    background-color: rgba(0,0,0,0);
+    border-top-style: solid;
+    border-top-color: dodgerblue;
+    padding-top: 15px;
+}
