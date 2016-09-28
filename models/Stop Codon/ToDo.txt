@@ -1,0 +1,17 @@
+#####################################################################
+Just some notes for what has yet to be done on the model
+#####################################################################
+
+Requirements
+- Identify locations of impact with regards to readthrough efficiency
+- Accurately (but not necessarily precisely) represent %readthrough
+- Document ALL limitations and references
+
+Done
+- Searching & storing locations for each notable feature
+
+Improvements
+- Accept .txt and .fasta input
+- Accept out of frame input
+- Increase accuracy of scoring
+- Allow different prioritization of readthrough factors
