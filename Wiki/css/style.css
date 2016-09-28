@@ -88,7 +88,7 @@ div#top_menu_inside {
 
 /*---Changes to Default Bootstrap----------------------------------------------------------------------*/
 div.jumbotron {
-  background-color: #373b40;
+  /*background-color: #373b40;*/
   color: #fff;
 }
 .vertical-align {
@@ -726,4 +726,84 @@ table.split-col td {
 }
 pre code {
     color: #c7254e;
+}
+.landing{
+  font-family: 'Baloo Bhaina', cursive;
+  background-color: #15323A;
+  height: 1080px;
+}
+ #circle1 {
+  position: relative;
+  bottom: 100px;
+  right: 400px;
+    width: 50px;
+    height: 50px;
+    -webkit-border-radius: 23px;
+    -moz-border-radius: 23px;
+    border-radius: 23px;
+    background: #F9EC69;
+  }
+  #circle2 {
+    position: relative;
+    top: 65px;
+    right: 450px;
+    width: 50px;
+    height: 49px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    background: #F9EC69;
+  }
+  #circle3 {
+  position: relative;
+  right: 290px;
+    width: 51px;
+    height: 50px;
+    -webkit-border-radius: 26px;
+    -moz-border-radius: 26px;
+    border-radius: 26px;
+    background: #F9EC69;
+  }  
+  #circle4 {
+  position: relative;
+  bottom: 130px;
+  left: 569px;
+    width: 51px;
+    height: 50px;
+    -webkit-border-radius: 26px;
+    -moz-border-radius: 26px;
+    border-radius: 26px;
+    background: #F9EC69;
+  }
+  #circle5 {
+  position: relative;
+  left: 350px;
+  bottom: 40px;
+    width: 51px;
+    height: 50px;
+    -webkit-border-radius: 26px;
+    -moz-border-radius: 26px;
+    border-radius: 26px;
+    background: #F9EC69;
+  }
+  #circle6 {
+  position: relative;
+  left: 700px;
+  top: 200px;
+    width: 51px;
+    height: 50px;
+    -webkit-border-radius: 26px;
+    -moz-border-radius: 26px;
+    border-radius: 26px;
+    background: #F9EC69;
+  }
+
+.landing #caption{
+  color: #F5636D;
+  font-style: underline;
+}
+.landing .btn-danger{
+  border-color: #F5636D;
+  color: #F5636D;
+  background-color: rgba(0,0,0,0.2);
 }
