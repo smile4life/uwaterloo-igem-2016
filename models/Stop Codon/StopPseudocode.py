@@ -12,7 +12,7 @@ Notes:
 
 
 ## Search ##
-Iterate through the given sequence (while not null)
+Iterate through the given sequence (wnile not null)
     Keep a counter of the sequence position, seqPos
     Add the next letter to codon string
     If the length of codon == 3
